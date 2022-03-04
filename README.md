@@ -2,7 +2,7 @@
 
 
 
-🔗 **[WN Sans TTF 다운로드](https://github.com/WemadeNext/WN-Sans/tree/main/TTF)**
+🔗 **[WN Sans TTF 다운로드](https://github.com/WemadeNext/WN-Sans/tree/main/TTF)**<br>
 🔗 **[WN Sans OTF 다운로드](https://github.com/WemadeNext/WN-Sans/tree/main/OTF)**
 <br><br>
 
