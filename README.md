@@ -7,86 +7,21 @@
 <br><br>
 
 
-### 위메이드넥스트 Noto Sans 경량화 버전 WN Sans
+### Noto Sans 경량화 버전 WN Sans
 
-미르4 글로벌 버전은 12개의 언어 환경을 지원합니다.
-용량 부담 없이 다양한 언어 환경을 지원하기 위해 <br>
-Noto Sans를 기반으로 용량 다이어트를 진행하였고 미르4에 최적화 한 경량화 폰트 WN Sans를 만들게 되였습니다.
+용량 부담 없이 다양한 언어 환경을 지원하기 위해 Noto Sans를 기반으로 경량화 폰트 WN Sans를 만들게 되였습니다.
 
 ### ┕  폰트 굵기 ┛
 WN Sans 폰트 굵기는 Medium입니다.
 
 ### ┕  포함된 글리프 ┛
 
-**라틴 총 646 글리프**
-Letter, Latin 라틴: 229<br>
-Letter, Cyrillic 키릴: 290<br>
-Number 숫자: 10<br>
-Punctuation 구두점: 41<br>
-Separator 분리기호(띄어쓰기 등): 4<br>
-Symbol 부호류: 51<br>
-Mark 발음구별기호 등: 20<br>
-Other: 1<br>
- 
+한국어 2,834 글리프, 중국어 간체 8,062 글리프, 중국어 번체 7,998 글리프, 일본어 7,981 글리프<br>
+라틴 646 글리프, 태국어 140, Noto Sans 전체 용량이 크기 때문에 게임에 큰 부담을 주고 있습니다.<br>
+WN Sans는 한국어 2,834 글리프로 구성되어 기존 용량 16MB에서 400KB 수준으로 줄었습니다. 
 
-**KR 총 2,834 글리프**
-Letter, Hangul: 2,831<br>
-Separator: 3<br>
- 
 
-**Thai 총 140 글리프 (Noto Sans Thai와 동일)**
-Letter, Thai: 64<br>
-Number, Thai: 10<br>
-Punctuation: 7<br>
-Separator: 7<br>
-Symbol: 3<br>
-Mark: 44<br>
-Other: 5<br>
- 
-
-**SC 총 8,062 글리프**
-Letter, Latin: 200<br>
-Letter, Cyrillic: 65<br>
-Letter, Greek: 1<br>
-Letter, Han(한자): 5,609<br>
-Letter, Hangul: 1,778<br>
-Letter, Kana(일본 가나): 193<br>
-Letter, Thai: 53<br>
-Number: 23<br>
-Punctuation: 72<br>
-Separator: 4<br>
-Symbol: 42<br>
-Mark: 22<br>
- 
-
-**TC 총 7,998 글리프**
-Letter, Latin: 200<br>
-Letter, Cyrillic: 65<br>
-Letter, Greek: 1<br>
-Letter, Han: 5,637<br>
-Letter, Hangul: 1,778<br>
-Letter, Kana: 193<br>
-Number: 23<br>
-Punctuation: 59<br>
-Separator: 4<br>
-Symbol: 32<br>
-Mark: 6<br>
- 
-
-**JP 총 7,981 글리프**
-Letter, Latin: 229<br>
-Letter, Cyrillic: 65<br>
-Letter, Greek: 1<br>
-Letter, Han: 5,538<br>
-Letter, Hangul: 1,778<br>
-Letter, Kana: 207<br>
-Number: 28<br>
-Punctuation: 76<br>
-Separator: 4<br>
-Symbol: 47<br>
-Mark: 8<br>
-
-### 라이선스
+### 라이선스 
 
 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
