@@ -9,7 +9,7 @@
 
 ### Noto Sans 경량화 버전 WN Sans
 
-용량 부담 없이 다양한 언어 환경을 지원하기 위해Noto Sans를 기반으로 경량화 폰트 WN Sans를 만들게 되였습니다.
+용량 부담 없이 다양한 언어 환경을 지원하기 위해 Noto Sans를 기반으로 경량화 폰트 WN Sans를 만들게 되였습니다.
 
 ### ┕  폰트 굵기 ┛
 WN Sans 폰트 굵기는 Medium입니다.
